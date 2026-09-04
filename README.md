@@ -26,6 +26,7 @@ Tools: Git, Docker, Linux, AWS
 📫 Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/reginald-bernardo-80024626b/
+
 Email: bernardo.reginald@yahoo.com
 
 <!--
