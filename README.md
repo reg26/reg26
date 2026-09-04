@@ -18,8 +18,11 @@ Database Management
 🛠️ Technologies:
 
 Languages: Python, Java, C++, JavaScript, TypeScript
+
 Frameworks: React, Node.js, Express
+
 Databases: PostgreSQL, MongoDB
+
 Tools: Git, Docker, Linux, AWS
 
 
